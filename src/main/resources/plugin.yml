@@ -1,0 +1,7 @@
+name: MaxInternalAPI
+version: '${project.version}'
+main: ml.maxcraftmc.maxinternalapi.MaxInternalAPI
+api-version: 1.19
+depend:
+  - AuthMe
+  - Vault
